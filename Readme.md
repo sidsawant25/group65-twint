@@ -72,29 +72,29 @@ Non-trainable params: 1,376
 _________________________________________________________________
 
 Model1 - Accuracy
-![Model 1](https://ibb.co/bRHNy9x)
+![Model 1](https://i.ibb.co/PzT1bHR/plot.jpg)
 
 Model2 - Accuracy
-![Model 1](https://ibb.co/bRHNy9x)
+![Model 2](https://i.ibb.co/PzT1bHR/plot.jpg)
 
 Model3 - Accuracy
-![Model 1](https://ibb.co/bRHNy9x)
+![Model 3](https://i.ibb.co/PzT1bHR/plot.jpg)
 
 Model4 - Accuracy
-![Model 1](https://ibb.co/bRHNy9x)
+![Model 4](https://i.ibb.co/PzT1bHR/plot.jpg)
 
 Model5 - Accuracy
-![Model 1](https://ibb.co/bRHNy9x)
+![Model 5](https://i.ibb.co/PzT1bHR/plot.jpg)
 
 Model6 - Accuracy
-![Model 1](https://ibb.co/bRHNy9x)
+![Model 6](https://i.ibb.co/PzT1bHR/plot.jpg)
 
 Model7 - Accuracy
-![Model 1](https://ibb.co/bRHNy9x)
+![Model 7](https://i.ibb.co/PzT1bHR/plot.jpg)
 
 Model8 - Accuracy
-![Model 1](https://ibb.co/bRHNy9x)
+![Model 8](https://i.ibb.co/PzT1bHR/plot.jpg)
 
 Model9 - Accuracy
-![Model 1](https://ibb.co/bRHNy9x)
+![Model 9](https://i.ibb.co/PzT1bHR/plot.jpg)
 
