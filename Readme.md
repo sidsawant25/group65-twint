@@ -3,20 +3,22 @@ Python Jupyter Notebook with Convolutional Neural Network implemented in Keras.
 
 
 ### Structure of Data
-/ </br>
+</pre>
+/ 
 	train.csv </br>
     test.csv  </br>
-
+</pre>
     
 ### Libraries Required
 pandas, numpy, matplotlib, sklearn, tensorflow
 
 ### Installation Commands:-
-pip install pandas</br>
-pip install matplotlib</br>
-pip install scikit-learn</br>
-pip install tensorflow</br>
-
+</pre>
+pip install pandas
+pip install matplotlib
+pip install scikit-learn
+pip install tensorflow
+</pre>
 
 ### Dataset
 In train.csv each row corresponds to one sequence sample, with sample ID, features of all frames and label ID.
