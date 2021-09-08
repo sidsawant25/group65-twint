@@ -24,7 +24,7 @@ Each sequence contains 16 frames.  Each frame contains the motion features of 20
 More specifically, each joint is represented with features in x, y, z axes in 3D space.  Thus each frame contains 20×3 = 60 features.
 
 ### Performance
-<p>
+<pre>
 Model Summary
 Model: "sequential_8"
 _________________________________________________________________
@@ -70,7 +70,7 @@ Total params: 851,281
 Trainable params: 849,905
 Non-trainable params: 1,376
 _________________________________________________________________
-</p>
+</pre>
 
 #### Model1 - Accuracy
 ![Model 1](https://i.ibb.co/PzT1bHR/plot.jpg)
