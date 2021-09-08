@@ -77,27 +77,28 @@ _________________________________________________________________
 #### Model1 - Accuracy
 ![Model 1](https://i.ibb.co/PzT1bHR/plot.jpg)
 
+
 #### Model2 - Accuracy
-![Model 2](https://i.ibb.co/PzT1bHR/plot.jpg)
+![Model 2](https://i.ibb.co/kqcSwG9/plot2.jpg)
 
 #### Model3 - Accuracy
-![Model 3](https://i.ibb.co/PzT1bHR/plot.jpg)
+![Model 3](https://i.ibb.co/VQ01RJr/plot3.jpg)
 
 #### Model4 - Accuracy
-![Model 4](https://i.ibb.co/PzT1bHR/plot.jpg)
+![Model 4](https://i.ibb.co/R3j6Hxn/plot4.jpg)
 
 #### Model5 - Accuracy
-![Model 5](https://i.ibb.co/PzT1bHR/plot.jpg)
+![Model 5](https://i.ibb.co/njJWZdK/plot5.jpg)
 
 #### Model6 - Accuracy
-![Model 6](https://i.ibb.co/PzT1bHR/plot.jpg)
+![Model 6](https://i.ibb.co/0s9c9QY/plot6.jpg)
 
 #### Model7 - Accuracy
-![Model 7](https://i.ibb.co/PzT1bHR/plot.jpg)
+![Model 7](https://i.ibb.co/GHBnHDq/plot7.jpg)
 
 #### Model8 - Accuracy
-![Model 8](https://i.ibb.co/PzT1bHR/plot.jpg)
+![Model 8](https://i.ibb.co/SxZPLfy/plot8.jpg)
 
 #### Model9 - Accuracy
-![Model 9](https://i.ibb.co/PzT1bHR/plot.jpg)
+![Model 9]https://i.ibb.co/9WkyHtK/plot9.jpg)
 
