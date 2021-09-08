@@ -25,6 +25,9 @@ In train.csv each row corresponds to one sequence sample, with sample ID, featur
 Each sequence contains 16 frames.  Each frame contains the motion features of 20 skeleton joints of a human body.
 More specifically, each joint is represented with features in x, y, z axes in 3D space.  Thus each frame contains 20×3 = 60 features.
 
+### Class Imbalance Problem
+An imbalanced classification problem occurs when the classes in the dataset have a highly unequal number of samples. Class weight technique is used to handle the issue. In this technique we assign a larger penalty to wrong predictions on the minority class.
+
 ### Performance
 <pre>
 Model Summary
