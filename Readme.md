@@ -1,4 +1,4 @@
-### Multi Class Classifier
+## Multi Class Classifier
 Python Jupyter Notebook with Convolutional Neural Network implemented in Keras.
 
 
@@ -8,7 +8,7 @@ Python Jupyter Notebook with Convolutional Neural Network implemented in Keras.
     test.csv  </br>
 
     
-### Libraries Required:-
+### Libraries Required
 pandas, numpy, matplotlib, sklearn, tensorflow
 
 ###Installation Commands:-
@@ -18,12 +18,12 @@ pip install scikit-learn
 pip install tensorflow
 
 
-### Dataset:-
+### Dataset
 In train.csv each row corresponds to one sequence sample, with sample ID, features of all frames and label ID.
 Each sequence contains 16 frames.  Each frame contains the motion features of 20 skeleton joints of a human body.
 More specifically, each joint is represented with features in x, y, z axes in 3D space.  Thus each frame contains 20×3 = 60 features.
 
-### Performance:-
+### Performance
 
 Model Summary
 Model: "sequential_8"
