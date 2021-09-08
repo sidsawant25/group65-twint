@@ -1,35 +1,35 @@
-Multi Class Classifier
+### Multi Class Classifier
 Python Jupyter Notebook with Convolutional Neural Network implemented in Keras.
 
 
-Structure of Data
+### Structure of Data
 /
 	train.csv
     test.csv
 
     
-Libraries Required:-
+### Libraries Required:-
 pandas, numpy, matplotlib, sklearn, tensorflow
 
-Installation Commands:-
+###Installation Commands:-
 pip install pandas
 pip install matplotlib
 pip install scikit-learn
 pip install tensorflow
 
 
-Dataset:-
+### Dataset:-
 In train.csv each row corresponds to one sequence sample, with sample ID, features of all frames and label ID.
 Each sequence contains 16 frames.  Each frame contains the motion features of 20 skeleton joints of a human body.
 More specifically, each joint is represented with features in x, y, z axes in 3D space.  Thus each frame contains 20×3 = 60 features.
 
-Performance:-
+### Performance:-
 
 Model Summary
 Model: "sequential_8"
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
-=================================================================
+_________________________________________________________________
 conv2d_24 (Conv2D)           (None, 16, 60, 64)        640       
 _________________________________________________________________
 batch_normalization_38 (Batc (None, 16, 60, 64)        256       
@@ -65,36 +65,36 @@ _________________________________________________________________
 batch_normalization_42 (Batc (None, 112)               448       
 _________________________________________________________________
 dense_26 (Dense)             (None, 49)                5537      
-=================================================================
+_________________________________________________________________
 Total params: 851,281
 Trainable params: 849,905
 Non-trainable params: 1,376
 _________________________________________________________________
 
-Model1 - Accuracy
+#### Model1 - Accuracy
 ![Model 1](https://i.ibb.co/PzT1bHR/plot.jpg)
 
-Model2 - Accuracy
+#### Model2 - Accuracy
 ![Model 2](https://i.ibb.co/PzT1bHR/plot.jpg)
 
-Model3 - Accuracy
+#### Model3 - Accuracy
 ![Model 3](https://i.ibb.co/PzT1bHR/plot.jpg)
 
-Model4 - Accuracy
+#### Model4 - Accuracy
 ![Model 4](https://i.ibb.co/PzT1bHR/plot.jpg)
 
-Model5 - Accuracy
+#### Model5 - Accuracy
 ![Model 5](https://i.ibb.co/PzT1bHR/plot.jpg)
 
-Model6 - Accuracy
+#### Model6 - Accuracy
 ![Model 6](https://i.ibb.co/PzT1bHR/plot.jpg)
 
-Model7 - Accuracy
+#### Model7 - Accuracy
 ![Model 7](https://i.ibb.co/PzT1bHR/plot.jpg)
 
-Model8 - Accuracy
+#### Model8 - Accuracy
 ![Model 8](https://i.ibb.co/PzT1bHR/plot.jpg)
 
-Model9 - Accuracy
+#### Model9 - Accuracy
 ![Model 9](https://i.ibb.co/PzT1bHR/plot.jpg)
 
