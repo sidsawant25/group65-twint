@@ -28,7 +28,7 @@ More specifically, each joint is represented with features in x, y, z axes in 3D
 Model Summary
 Model: "sequential_8"
 _________________________________________________________________
-Layer (type)                 Output Shape              Param #   
+Layer (type)                 Output Shape              Param    
 ------------------------------------------------------------------
 conv2d_24 (Conv2D)           (None, 16, 60, 64)        640       
 ------------------------------------------------------------------
