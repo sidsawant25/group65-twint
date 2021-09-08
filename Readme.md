@@ -1,4 +1,4 @@
-# Multi Class Classifier
+## Multi Class Classifier
 Python Jupyter Notebook with Convolutional Neural Network implemented in Keras.
 
 
@@ -11,11 +11,11 @@ Python Jupyter Notebook with Convolutional Neural Network implemented in Keras.
 ### Libraries Required
 pandas, numpy, matplotlib, sklearn, tensorflow
 
-###Installation Commands:-
-pip install pandas
-pip install matplotlib
-pip install scikit-learn
-pip install tensorflow
+### Installation Commands:-
+pip install pandas</br>
+pip install matplotlib</br>
+pip install scikit-learn</br>
+pip install tensorflow</br>
 
 
 ### Dataset
