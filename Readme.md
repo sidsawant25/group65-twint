@@ -5,8 +5,8 @@ Python Jupyter Notebook with Convolutional Neural Network implemented in Keras.
 ### Structure of Data
 <pre>
 / 
-	train.csv 
-    test.csv  
+    train.csv
+    test.csv 
 </pre>
     
 ### Libraries Required
