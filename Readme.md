@@ -100,5 +100,5 @@ _________________________________________________________________
 ![Model 8](https://i.ibb.co/SxZPLfy/plot8.jpg)
 
 #### Model9 - Accuracy
-![Model 9]https://i.ibb.co/9WkyHtK/plot9.jpg)
+![Model 9](https://i.ibb.co/9WkyHtK/plot9.jpg)
 
